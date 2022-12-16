@@ -1,0 +1,1 @@
+$('p').text('Hello World !').css('fontWeight', 'bolder') //ou bold
